@@ -1,553 +1,553 @@
 [
-{
-"id": 1,
-"topic": "Ökonomisches Prinzip",
-"question": "Was beschreibt das ökonomische Prinzip grundsätzlich?",
-"options": {
-"A": "Möglichst viele Ressourcen verbrauchen",
-"B": "Mit knappen Mitteln ein Ziel erreichen",
-"C": "Gewinne ohne Aufwand erzielen",
-"D": "Staatliche Planung der Wirtschaft"
-},
-"correct": "B"
-},
-{
-"id": 2,
-"topic": "Ökonomisches Prinzip",
-"question": "Was ist das Minimalprinzip?",
-"options": {
-"A": "Maximaler Output bei gleichen Kosten",
-"B": "Ein Ziel mit möglichst wenig Mitteln erreichen",
-"C": "Viele Ziele gleichzeitig verfolgen",
-"D": "Ressourcen unbegrenzt nutzen"
-},
-"correct": "B"
-},
-{
-"id": 3,
-"topic": "Ökonomisches Prinzip",
-"question": "Was ist das Maximalprinzip?",
-"options": {
-"A": "Mit gegebenen Mitteln maximalen Output erreichen",
-"B": "Ohne Planung arbeiten",
-"C": "Minimaler Einsatz ohne Ziel",
-"D": "Staatliche Kontrolle"
-},
-"correct": "A"
-},
-{
-"id": 4,
-"topic": "Ökonomisches Prinzip",
-"question": "Was beschreibt das Extremumprinzip?",
-"options": {
-"A": "Optimales Verhältnis von Aufwand und Nutzen",
-"B": "Keine wirtschaftliche Entscheidung",
-"C": "Zufällige Ressourcennutzung",
-"D": "Nur Kostenminimierung"
-},
-"correct": "A"
-},
-{
-"id": 5,
-"topic": "Ökonomisches Prinzip",
-"question": "Welche Annahme gehört zum Homo Oeconomicus?",
-"options": {
-"A": "Emotionale Entscheidungen",
-"B": "Immer altruistisch handeln",
-"C": "Rational und nutzenmaximierend handeln",
-"D": "Zufällige Entscheidungen"
-},
-"correct": "C"
-},
+    {
+      "id": 1,
+      "question": "Was beschreibt das ökonomische Prinzip grundsätzlich?",
+      "options": {
+        "A": "Möglichst viele Ressourcen verbrauchen",
+        "B": "Mit knappen Mitteln ein Ziel erreichen",
+        "C": "Gewinne ohne Aufwand erzielen",
+        "D": "Staatliche Planung der Wirtschaft"
+      },
+      "correctAnswer": "B",
+      "explanation": "Das ökonomische Prinzip beschreibt den rationalen Umgang mit knappen Ressourcen zur Zielerreichung."
+    },
+    {
+      "id": 2,
+      "question": "Was ist das Minimalprinzip?",
+      "options": {
+        "A": "Maximaler Output bei gleichen Kosten",
+        "B": "Ein Ziel mit möglichst wenig Mitteln erreichen",
+        "C": "Viele Ziele gleichzeitig verfolgen",
+        "D": "Ressourcen unbegrenzt nutzen"
+      },
+      "correctAnswer": "B",
+      "explanation": "Beim Minimalprinzip wird ein festes Ziel mit möglichst geringem Einsatz erreicht."
+    },
+    {
+      "id": 3,
+      "question": "Was ist das Maximalprinzip?",
+      "options": {
+        "A": "Mit gegebenen Mitteln maximalen Output erreichen",
+        "B": "Ohne Planung arbeiten",
+        "C": "Minimaler Einsatz ohne Ziel",
+        "D": "Staatliche Kontrolle"
+      },
+      "correctAnswer": "A",
+      "explanation": "Beim Maximalprinzip wird mit festen Mitteln der größtmögliche Nutzen erzielt."
+    },
+    {
+      "id": 4,
+      "question": "Was beschreibt das Extremumprinzip?",
+      "options": {
+        "A": "Optimales Verhältnis von Aufwand und Nutzen",
+        "B": "Keine wirtschaftliche Entscheidung",
+        "C": "Zufällige Ressourcennutzung",
+        "D": "Nur Kostenminimierung"
+      },
+      "correctAnswer": "A",
+      "explanation": "Das Extremumprinzip sucht das beste Verhältnis zwischen Aufwand und Ergebnis."
+    },
+    {
+      "id": 5,
+      "question": "Welche Annahme gehört zum Homo Oeconomicus?",
+      "options": {
+        "A": "Emotionale Entscheidungen",
+        "B": "Immer altruistisch handeln",
+        "C": "Rational und nutzenmaximierend handeln",
+        "D": "Zufällige Entscheidungen"
+      },
+      "correctAnswer": "C",
+      "explanation": "Der Homo Oeconomicus trifft rationale Entscheidungen zur Nutzenmaximierung."
+    },
 
-{
-"id": 6,
-"topic": "Wirtschaftskreislauf",
-"question": "Welche Akteure gehören zum einfachen Wirtschaftskreislauf?",
-"options": {
-"A": "Staat und Ausland",
-"B": "Haushalte und Unternehmen",
-"C": "Banken und Medien",
-"D": "NGOs"
-},
-"correct": "B"
-},
-{
-"id": 7,
-"topic": "Wirtschaftskreislauf",
-"question": "Welche Rolle hat der Staat im Wirtschaftskreislauf?",
-"options": {
-"A": "Nur Konsument",
-"B": "Nur Produzent",
-"C": "Regulierung, Steuern und Ausgaben",
-"D": "Keine Rolle"
-},
-"correct": "C"
-},
-{
-"id": 8,
-"topic": "Wirtschaftskreislauf",
-"question": "Was ist die Aufgabe von Banken?",
-"options": {
-"A": "Produktion",
-"B": "Kapitalvermittlung",
-"C": "Gesetzgebung",
-"D": "Werbung"
-},
-"correct": "B"
-},
-{
-"id": 9,
-"topic": "Wirtschaftskreislauf",
-"question": "Was gehört zum Ausland im Wirtschaftskreislauf?",
-"options": {
-"A": "Nur Tourismus",
-"B": "Exporte und Importe",
-"C": "Nur Steuern",
-"D": "Nur Produktion"
-},
-"correct": "B"
-},
-{
-"id": 10,
-"topic": "Wirtschaftskreislauf",
-"question": "Was wird im erweiterten Wirtschaftskreislauf ergänzt?",
-"options": {
-"A": "Keine Änderungen",
-"B": "Staat, Banken und Ausland",
-"C": "Nur Unternehmen",
-"D": "Nur Haushalte"
-},
-"correct": "B"
-},
+    {
+      "id": 6,
+      "question": "Welche Akteure gehören zum einfachen Wirtschaftskreislauf?",
+      "options": {
+        "A": "Staat und Ausland",
+        "B": "Haushalte und Unternehmen",
+        "C": "Banken und Medien",
+        "D": "NGOs"
+      },
+      "correctAnswer": "B",
+      "explanation": "Im einfachen Modell stehen Haushalte und Unternehmen im Mittelpunkt."
+    },
+    {
+      "id": 7,
+      "question": "Welche Rolle hat der Staat im Wirtschaftskreislauf?",
+      "options": {
+        "A": "Nur Konsument",
+        "B": "Nur Produzent",
+        "C": "Regulierung, Steuern und Ausgaben",
+        "D": "Keine Rolle"
+      },
+      "correctAnswer": "C",
+      "explanation": "Der Staat greift regulierend ein und erhebt sowie verwendet Steuern."
+    },
+    {
+      "id": 8,
+      "question": "Was ist die Aufgabe von Banken?",
+      "options": {
+        "A": "Produktion",
+        "B": "Kapitalvermittlung",
+        "C": "Gesetzgebung",
+        "D": "Werbung"
+      },
+      "correctAnswer": "B",
+      "explanation": "Banken vermitteln Geld zwischen Sparern und Investoren."
+    },
+    {
+      "id": 9,
+      "question": "Was gehört zum Ausland im Wirtschaftskreislauf?",
+      "options": {
+        "A": "Nur Tourismus",
+        "B": "Exporte und Importe",
+        "C": "Nur Steuern",
+        "D": "Nur Produktion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Das Ausland ist über Export- und Importbeziehungen eingebunden."
+    },
+    {
+      "id": 10,
+      "question": "Was wird im erweiterten Wirtschaftskreislauf ergänzt?",
+      "options": {
+        "A": "Keine Änderungen",
+        "B": "Staat, Banken und Ausland",
+        "C": "Nur Unternehmen",
+        "D": "Nur Haushalte"
+      },
+      "correctAnswer": "B",
+      "explanation": "Der erweiterte Kreislauf ergänzt zusätzliche wirtschaftliche Akteure."
+    },
 
-{
-"id": 11,
-"topic": "Produktion",
-"question": "Welche Produktionsfaktoren gibt es klassisch?",
-"options": {
-"A": "Arbeit, Boden, Kapital",
-"B": "Geld, Staat, Medien",
-"C": "Nachfrage, Angebot, Preis",
-"D": "Export, Import, Konsum"
-},
-"correct": "A"
-},
-{
-"id": 12,
-"topic": "Produktion",
-"question": "Was gehört zu Kapital?",
-"options": {
-"A": "Nur Geld",
-"B": "Maschinen und Anlagen",
-"C": "Arbeitszeit",
-"D": "Natur"
-},
-"correct": "B"
-},
-{
-"id": 13,
-"topic": "Produktion",
-"question": "Was bedeutet Arbeit als Produktionsfaktor?",
-"options": {
-"A": "Maschinenarbeit",
-"B": "Menschliche Leistung",
-"C": "Kapitalanlage",
-"D": "Rohstoffe"
-},
-"correct": "B"
-},
-{
-"id": 14,
-"topic": "Produktion",
-"question": "Was bedeutet Boden?",
-"options": {
-"A": "Immobilien nur",
-"B": "Naturressourcen",
-"C": "Geldanlagen",
-"D": "Maschinen"
-},
-"correct": "B"
-},
-{
-"id": 15,
-"topic": "Produktion",
-"question": "Was bedeutet Wissen als Produktionsfaktor?",
-"options": {
-"A": "Schulnoten",
-"B": "Know-how und Erfahrung",
-"C": "Gesetze",
-"D": "Bücher"
-},
-"correct": "B"
-},
+    {
+      "id": 11,
+      "question": "Welche Produktionsfaktoren gibt es klassisch?",
+      "options": {
+        "A": "Arbeit, Boden, Kapital",
+        "B": "Geld, Staat, Medien",
+        "C": "Nachfrage, Angebot, Preis",
+        "D": "Export, Import, Konsum"
+      },
+      "correctAnswer": "A",
+      "explanation": "Die klassischen Faktoren sind Arbeit, Boden und Kapital."
+    },
+    {
+      "id": 12,
+      "question": "Was gehört zu Kapital?",
+      "options": {
+        "A": "Nur Geld",
+        "B": "Maschinen und Anlagen",
+        "C": "Arbeitszeit",
+        "D": "Natur"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kapital umfasst Produktionsmittel wie Maschinen."
+    },
+    {
+      "id": 13,
+      "question": "Was bedeutet Arbeit als Produktionsfaktor?",
+      "options": {
+        "A": "Maschinenarbeit",
+        "B": "Menschliche Leistung",
+        "C": "Kapitalanlage",
+        "D": "Rohstoffe"
+      },
+      "correctAnswer": "B",
+      "explanation": "Arbeit ist die körperliche und geistige Leistung des Menschen."
+    },
+    {
+      "id": 14,
+      "question": "Was bedeutet Boden?",
+      "options": {
+        "A": "Immobilien nur",
+        "B": "Naturressourcen",
+        "C": "Geldanlagen",
+        "D": "Maschinen"
+      },
+      "correctAnswer": "B",
+      "explanation": "Boden umfasst natürliche Ressourcen wie Fläche und Rohstoffe."
+    },
+    {
+      "id": 15,
+      "question": "Was bedeutet Wissen als Produktionsfaktor?",
+      "options": {
+        "A": "Schulnoten",
+        "B": "Know-how und Erfahrung",
+        "C": "Gesetze",
+        "D": "Bücher"
+      },
+      "correctAnswer": "B",
+      "explanation": "Wissen umfasst Erfahrung, Fähigkeiten und Know-how."
+    },
 
-{
-"id": 16,
-"topic": "VWL/BWL",
-"question": "Was untersucht die Volkswirtschaftslehre (VWL)?",
-"options": {
-"A": "Einzelne Unternehmen",
-"B": "Gesamtwirtschaft",
-"C": "Marketing",
-"D": "Personalführung"
-},
-"correct": "B"
-},
-{
-"id": 17,
-"topic": "VWL/BWL",
-"question": "Was untersucht die Betriebswirtschaftslehre (BWL)?",
-"options": {
-"A": "Gesamtstaat",
-"B": "Einzelne Unternehmen",
-"C": "Weltwirtschaft",
-"D": "Politik"
-},
-"correct": "B"
-},
+    {
+      "id": 16,
+      "question": "Was untersucht die Volkswirtschaftslehre (VWL)?",
+      "options": {
+        "A": "Einzelne Unternehmen",
+        "B": "Gesamtwirtschaft",
+        "C": "Marketing",
+        "D": "Personalführung"
+      },
+      "correctAnswer": "B",
+      "explanation": "VWL betrachtet die gesamte Wirtschaft eines Landes."
+    },
+    {
+      "id": 17,
+      "question": "Was untersucht die Betriebswirtschaftslehre (BWL)?",
+      "options": {
+        "A": "Gesamtstaat",
+        "B": "Einzelne Unternehmen",
+        "C": "Weltwirtschaft",
+        "D": "Politik"
+      },
+      "correctAnswer": "B",
+      "explanation": "BWL beschäftigt sich mit einzelnen Unternehmen."
+    },
 
-{
-"id": 18,
-"topic": "Arbeitslosigkeit",
-"question": "Was ist Friktionsarbeitslosigkeit?",
-"options": {
-"A": "Dauerhaft",
-"B": "Kurzfristig zwischen Jobs",
-"C": "Strukturproblem",
-"D": "Saisonarbeit"
-},
-"correct": "B"
-},
-{
-"id": 19,
-"topic": "Arbeitslosigkeit",
-"question": "Was ist saisonale Arbeitslosigkeit?",
-"options": {
-"A": "Wetterabhängig",
-"B": "Politisch",
-"C": "Dauerhaft",
-"D": "Zufällig"
-},
-"correct": "A"
-},
-{
-"id": 20,
-"topic": "Arbeitslosigkeit",
-"question": "Was ist strukturelle Arbeitslosigkeit?",
-"options": {
-"A": "Kurzfristige Krise",
-"B": "Wirtschaftlicher Strukturwandel",
-"C": "Urlaub",
-"D": "Überproduktion"
-},
-"correct": "B"
-},
-{
-"id": 21,
-"topic": "Arbeitslosigkeit",
-"question": "Was ist konjunkturelle Arbeitslosigkeit?",
-"options": {
-"A": "Wetter",
-"B": "Wirtschaftskrise",
-"C": "Ausbildung",
-"D": "Freizeit"
-},
-"correct": "B"
-},
-{
-"id": 22,
-"topic": "Arbeitslosigkeit",
-"question": "Was ist Sockelarbeitslosigkeit?",
-"options": {
-"A": "Immer vorhandene Grundarbeitslosigkeit",
-"B": "Null Arbeitslosigkeit",
-"C": "Nur Winter",
-"D": "Firmenfehler"
-},
-"correct": "A"
-},
-{
-"id": 23,
-"topic": "Arbeitswelt",
-"question": "Was ist Arbeitsteilung?",
-"options": {
-"A": "Jeder macht alles",
-"B": "Spezialisierung zur Effizienzsteigerung",
-"C": "Arbeitslosigkeit",
-"D": "Maschinen ersetzen Menschen"
-},
-"correct": "B"
-},
-{
-"id": 24,
-"topic": "Arbeitswelt",
-"question": "Was ist Rationalisierung?",
-"options": {
-"A": "Mehr Aufwand",
-"B": "Effizienzsteigerung",
-"C": "Weniger Produktion",
-"D": "Zufall"
-},
-"correct": "B"
-},
+    {
+      "id": 18,
+      "question": "Was ist Friktionsarbeitslosigkeit?",
+      "options": {
+        "A": "Dauerhaft",
+        "B": "Kurzfristig zwischen Jobs",
+        "C": "Strukturproblem",
+        "D": "Saisonarbeit"
+      },
+      "correctAnswer": "B",
+      "explanation": "Entsteht beim Wechsel zwischen zwei Arbeitsstellen."
+    },
+    {
+      "id": 19,
+      "question": "Was ist saisonale Arbeitslosigkeit?",
+      "options": {
+        "A": "Wetterabhängig",
+        "B": "Politisch",
+        "C": "Dauerhaft",
+        "D": "Zufällig"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sie entsteht durch saisonale Schwankungen."
+    },
+    {
+      "id": 20,
+      "question": "Was ist strukturelle Arbeitslosigkeit?",
+      "options": {
+        "A": "Kurzfristige Krise",
+        "B": "Wirtschaftlicher Strukturwandel",
+        "C": "Urlaub",
+        "D": "Überproduktion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sie entsteht durch langfristige Veränderungen der Wirtschaft."
+    },
+  {
+      "id": 21,
+      "question": "Was ist konjunkturelle Arbeitslosigkeit?",
+      "options": {
+        "A": "Wetterabhängig",
+        "B": "Entsteht durch Wirtschaftskrisen",
+        "C": "Dauerhaft",
+        "D": "Freizeitbedingt"
+      },
+      "correctAnswer": "B",
+      "explanation": "Konjunkturelle Arbeitslosigkeit entsteht durch Abschwungphasen in der Wirtschaft."
+    },
+    {
+      "id": 22,
+      "question": "Was ist Sockelarbeitslosigkeit?",
+      "options": {
+        "A": "Immer vorhandene Grundarbeitslosigkeit",
+        "B": "Nur im Winter",
+        "C": "Nur bei Krisen",
+        "D": "Keine Arbeitslosigkeit"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sockelarbeitslosigkeit beschreibt die dauerhaft vorhandene Mindestarbeitslosigkeit."
+    },
+    {
+      "id": 23,
+      "question": "Was bedeutet Arbeitsteilung?",
+      "options": {
+        "A": "Jeder macht alles selbst",
+        "B": "Spezialisierung von Aufgaben",
+        "C": "Arbeitslosigkeit",
+        "D": "Maschinen ersetzen Menschen"
+      },
+      "correctAnswer": "B",
+      "explanation": "Arbeitsteilung bedeutet, dass Aufgaben auf verschiedene Personen verteilt werden."
+    },
+    {
+      "id": 24,
+      "question": "Was bedeutet Rationalisierung?",
+      "options": {
+        "A": "Mehr Aufwand für gleiche Leistung",
+        "B": "Effizienzsteigerung von Arbeitsprozessen",
+        "C": "Weniger Produktion",
+        "D": "Zufällige Abläufe"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rationalisierung bedeutet, Prozesse effizienter und wirtschaftlicher zu gestalten."
+    },
 
-{
-"id": 25,
-"topic": "Kompetenzen",
-"question": "Was ist Fachkompetenz?",
-"options": {
-"A": "Sozialverhalten",
-"B": "Fachwissen",
-"C": "Kreativität",
-"D": "Führung"
-},
-"correct": "B"
-},
-{
-"id": 26,
-"topic": "Kompetenzen",
-"question": "Was ist Methodenkompetenz?",
-"options": {
-"A": "Arbeitsstrategien",
-"B": "Emotionen",
-"C": "Technik",
-"D": "Recht"
-},
-"correct": "A"
-},
-{
-"id": 27,
-"topic": "Kompetenzen",
-"question": "Was ist Sozialkompetenz?",
-"options": {
-"A": "Mathematik",
-"B": "Umgang mit Menschen",
-"C": "IT",
-"D": "Planung"
-},
-"correct": "B"
-},
-{
-"id": 28,
-"topic": "Kompetenzen",
-"question": "Was ist Führungskompetenz?",
-"options": {
-"A": "Nur Fachwissen",
-"B": "Teams leiten",
-"C": "Maschinen bedienen",
-"D": "Lesen"
-},
-"correct": "B"
-},
+    {
+      "id": 25,
+      "question": "Was ist Fachkompetenz?",
+      "options": {
+        "A": "Soziale Fähigkeiten",
+        "B": "Fachliches Wissen in einem Bereich",
+        "C": "Teamfähigkeit",
+        "D": "Führung"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fachkompetenz bezeichnet das Wissen und Können in einem bestimmten Fachgebiet."
+    },
+    {
+      "id": 26,
+      "question": "Was ist Methodenkompetenz?",
+      "options": {
+        "A": "Fähigkeit, Arbeitsmethoden anzuwenden",
+        "B": "Emotionale Intelligenz",
+        "C": "Technisches Gerät",
+        "D": "Rechtswissen"
+      },
+      "correctAnswer": "A",
+      "explanation": "Methodenkompetenz bedeutet, Aufgaben strukturiert und zielgerichtet zu lösen."
+    },
+    {
+      "id": 27,
+      "question": "Was ist Sozialkompetenz?",
+      "options": {
+        "A": "Mathematikkenntnisse",
+        "B": "Umgang mit anderen Menschen",
+        "C": "IT-Kenntnisse",
+        "D": "Planung"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sozialkompetenz beschreibt den Umgang und die Zusammenarbeit mit anderen Menschen."
+    },
+    {
+      "id": 28,
+      "question": "Was ist Führungskompetenz?",
+      "options": {
+        "A": "Nur Fachwissen",
+        "B": "Teams leiten und Verantwortung übernehmen",
+        "C": "Maschinen bedienen",
+        "D": "Lesen"
+      },
+      "correctAnswer": "B",
+      "explanation": "Führungskompetenz bedeutet, Gruppen zu organisieren und Entscheidungen zu treffen."
+    },
 
-{
-"id": 29,
-"topic": "Nachhaltigkeit",
-"question": "Was bedeutet Nachhaltigkeit?",
-"options": {
-"A": "Kurzfristiger Gewinn",
-"B": "Zukunftsfähige Ressourcennutzung",
-"C": "Mehr Produktion",
-"D": "Nur Umwelt"
-},
-"correct": "B"
-},
-{
-"id": 30,
-"topic": "Nachhaltigkeit",
-"question": "Was ist der ökosoziale Ansatz?",
-"options": {
-"A": "Nur Umwelt",
-"B": "Umwelt, Wirtschaft und Gesellschaft",
-"C": "Nur Wirtschaft",
-"D": "Keine Regeln"
-},
-"correct": "B"
-},
+    {
+      "id": 29,
+      "question": "Was bedeutet Nachhaltigkeit?",
+      "options": {
+        "A": "Kurzfristiger Gewinn",
+        "B": "Ressourcen für zukünftige Generationen erhalten",
+        "C": "Mehr Konsum",
+        "D": "Nur Umweltpolitik"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nachhaltigkeit bedeutet, Ressourcen so zu nutzen, dass sie langfristig erhalten bleiben."
+    },
+    {
+      "id": 30,
+      "question": "Was ist der ökosoziale Ansatz?",
+      "options": {
+        "A": "Nur Umwelt berücksichtigen",
+        "B": "Wirtschaft, Umwelt und Gesellschaft verbinden",
+        "C": "Nur Wirtschaft fördern",
+        "D": "Keine Regeln"
+      },
+      "correctAnswer": "B",
+      "explanation": "Der ökosoziale Ansatz verbindet wirtschaftliche und ökologische Ziele mit sozialer Verantwortung."
+    },
 
-{
-"id": 31,
-"topic": "Modelle",
-"question": "Was ist ein wirtschaftliches Modell?",
-"options": {
-"A": "Realität 1:1",
-"B": "Vereinfachte Darstellung der Realität",
-"C": "Gesetz",
-"D": "Statistik"
-},
-"correct": "B"
-},
-{
-"id": 32,
-"topic": "Modelle",
-"question": "Warum nutzt man Modelle?",
-"options": {
-"A": "Zur Vereinfachung",
-"B": "Zur Verwirrung",
-"C": "Für Mode",
-"D": "Für Werbung"
-},
-"correct": "A"
-},
+    {
+      "id": 31,
+      "question": "Was ist ein wirtschaftliches Modell?",
+      "options": {
+        "A": "Exakte Abbildung der Realität",
+        "B": "Vereinfachte Darstellung der Realität",
+        "C": "Gesetz",
+        "D": "Statistik"
+      },
+      "correctAnswer": "B",
+      "explanation": "Modelle vereinfachen komplexe wirtschaftliche Zusammenhänge."
+    },
+    {
+      "id": 32,
+      "question": "Warum verwendet man Modelle in der Wirtschaft?",
+      "options": {
+        "A": "Zur Vereinfachung komplexer Zusammenhänge",
+        "B": "Zur Verwirrung",
+        "C": "Für Werbung",
+        "D": "Zum Spaß"
+      },
+      "correctAnswer": "A",
+      "explanation": "Modelle helfen, wirtschaftliche Prozesse besser zu verstehen."
+    },
 
-{
-"id": 33,
-"topic": "Erwerbsformen",
-"question": "Was ist eine abhängige Beschäftigung?",
-"options": {
-"A": "Selbstständig",
-"B": "Arbeitnehmer in Firma",
-"C": "Eigentümer",
-"D": "Investor"
-},
-"correct": "B"
-},
-{
-"id": 34,
-"topic": "Erwerbsformen",
-"question": "Was ist Selbstständigkeit?",
-"options": {
-"A": "Arbeit im Unternehmen",
-"B": "Eigene Firma führen",
-"C": "Praktikum",
-"D": "Schule"
-},
-"correct": "B"
-},
-{
-"id": 35,
-"topic": "Erwerbsformen",
-"question": "Was ist ein Minijob?",
-"options": {
-"A": "Vollzeitjob",
-"B": "Geringfügige Beschäftigung",
-"C": "Führungskraft",
-"D": "Studium"
-},
-"correct": "B"
-},
+    {
+      "id": 33,
+      "question": "Was ist eine abhängige Beschäftigung?",
+      "options": {
+        "A": "Selbstständig arbeiten",
+        "B": "Arbeitnehmer in einem Unternehmen",
+        "C": "Eigene Firma",
+        "D": "Investor"
+      },
+      "correctAnswer": "B",
+      "explanation": "Eine abhängige Beschäftigung bedeutet Arbeit in einem Unternehmen als Angestellter."
+    },
+    {
+      "id": 34,
+      "question": "Was bedeutet Selbstständigkeit?",
+      "options": {
+        "A": "Arbeiten im Betrieb",
+        "B": "Eigene berufliche Tätigkeit führen",
+        "C": "Praktikum",
+        "D": "Schule"
+      },
+      "correctAnswer": "B",
+      "explanation": "Selbstständige arbeiten eigenverantwortlich ohne Arbeitgeber."
+    },
+    {
+      "id": 35,
+      "question": "Was ist ein Minijob?",
+      "options": {
+        "A": "Vollzeitjob",
+        "B": "Geringfügige Beschäftigung",
+        "C": "Führungsposition",
+        "D": "Studium"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ein Minijob ist eine geringfügige Beschäftigung mit wenig Stunden."
+    },
 
-{
-"id": 36,
-"topic": "Arbeitswelt",
-"question": "Was ist ein Beruf?",
-"options": {
-"A": "Freizeit",
-"B": "Dauerhafte Tätigkeit mit Ausbildung",
-"C": "Hobby",
-"D": "Projekt"
-},
-"correct": "B"
-},
-{
-"id": 37,
-"topic": "Arbeitswelt",
-"question": "Was bedeutet Qualifikation?",
-"options": {
-"A": "Zufall",
-"B": "Ausbildung und Fähigkeiten",
-"C": "Freizeit",
-"D": "Geld"
-},
-"correct": "B"
-},
+    {
+      "id": 36,
+      "question": "Was ist ein Beruf?",
+      "options": {
+        "A": "Freizeitaktivität",
+        "B": "Regelmäßige Tätigkeit mit Ausbildung",
+        "C": "Hobby",
+        "D": "Projektarbeit"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ein Beruf ist eine langfristige Tätigkeit zur Sicherung des Lebensunterhalts."
+    },
+    {
+      "id": 37,
+      "question": "Was bedeutet Qualifikation?",
+      "options": {
+        "A": "Zufall",
+        "B": "Erlernte Fähigkeiten und Ausbildung",
+        "C": "Freizeit",
+        "D": "Geld"
+      },
+      "correctAnswer": "B",
+      "explanation": "Qualifikation beschreibt Ausbildung und berufliche Fähigkeiten."
+    },
 
-{
-"id": 38,
-"topic": "Wirtschaftliche Ziele",
-"question": "Was ist ein ökonomisches Ziel?",
-"options": {
-"A": "Spaß",
-"B": "Gewinnmaximierung",
-"C": "Freizeit",
-"D": "Mode"
-},
-"correct": "B"
-},
-{
-"id": 39,
-"topic": "Wirtschaftliche Ziele",
-"question": "Was ist ein soziales Ziel?",
-"options": {
-"A": "Gewinn",
-"B": "Gerechtigkeit",
-"C": "Produktion",
-"D": "Export"
-},
-"correct": "B"
-},
-{
-"id": 40,
-"topic": "Wirtschaftliche Ziele",
-"question": "Was ist ein ökologisches Ziel?",
-"options": {
-"A": "Umwelt schützen",
-"B": "Mehr Konsum",
-"C": "Mehr Gewinn",
-"D": "Werbung"
-},
-"correct": "A"
-},
+    {
+      "id": 38,
+      "question": "Was ist ein ökonomisches Ziel?",
+      "options": {
+        "A": "Freizeit",
+        "B": "Gewinnmaximierung",
+        "C": "Hobby",
+        "D": "Erholung"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ökonomische Ziele beziehen sich auf wirtschaftlichen Erfolg und Gewinn."
+    },
+    {
+      "id": 39,
+      "question": "Was ist ein soziales Ziel?",
+      "options": {
+        "A": "Gewinn",
+        "B": "Gerechtigkeit und Fairness",
+        "C": "Produktion",
+        "D": "Export"
+      },
+      "correctAnswer": "B",
+      "explanation": "Soziale Ziele betreffen das Wohl der Gesellschaft."
+    },
+    {
+      "id": 40,
+      "question": "Was ist ein ökologisches Ziel?",
+      "options": {
+        "A": "Umweltschutz",
+        "B": "Mehr Konsum",
+        "C": "Mehr Gewinn",
+        "D": "Werbung"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ökologische Ziele dienen dem Schutz der Umwelt."
+    },
 
-{
-"id": 41,
-"topic": "Allgemein",
-"question": "Was bedeutet Vollbeschäftigung?",
-"options": {
-"A": "100% Arbeitslosigkeit",
-"B": "Sehr geringe Arbeitslosigkeit",
-"C": "Keine Wirtschaft",
-"D": "Nur Teilzeit"
-},
-"correct": "B"
-},
-{
-"id": 42,
-"topic": "Allgemein",
-"question": "Was bedeutet Markttransparenz?",
-"options": {
-"A": "Keine Informationen",
-"B": "Gleiche Informationen für alle",
-"C": "Geheimpreise",
-"D": "Werbung"
-},
-"correct": "B"
-},
-{
-"id": 43,
-"topic": "Allgemein",
-"question": "Was bedeutet rationale Entscheidung?",
-"options": {
-"A": "Emotional",
-"B": "Nutzenorientiert",
-"C": "Zufällig",
-"D": "Unüberlegt"
-},
-"correct": "B"
-},
-{
-"id": 44,
-"topic": "Allgemein",
-"question": "Was ist ein Produktionsprozess?",
-"options": {
-"A": "Konsum",
-"B": "Umwandlung von Inputs in Produkte",
-"C": "Freizeit",
-"D": "Werbung"
-},
-"correct": "B"
-},
-{
-"id": 45,
-"topic": "Allgemein",
-"question": "Was bedeutet Effizienz?",
-"options": {
-"A": "Viel Aufwand",
-"B": "Gutes Ergebnis mit wenig Einsatz",
-"C": "Zufall",
-"D": "Verschwendung"
-},
-"correct": "B"
-}
+    {
+      "id": 41,
+      "question": "Was bedeutet Vollbeschäftigung?",
+      "options": {
+        "A": "Alle sind arbeitslos",
+        "B": "Sehr geringe Arbeitslosigkeit",
+        "C": "Keine Wirtschaft",
+        "D": "Nur Teilzeit"
+      },
+      "correctAnswer": "B",
+      "explanation": "Vollbeschäftigung bedeutet, dass fast alle Menschen Arbeit haben."
+    },
+    {
+      "id": 42,
+      "question": "Was bedeutet Markttransparenz?",
+      "options": {
+        "A": "Keine Informationen",
+        "B": "Alle Marktteilnehmer haben gleiche Informationen",
+        "C": "Geheime Preise",
+        "D": "Werbung"
+      },
+      "correctAnswer": "B",
+      "explanation": "Markttransparenz bedeutet vollständige Information für Käufer und Verkäufer."
+    },
+    {
+      "id": 43,
+      "question": "Was bedeutet eine rationale Entscheidung?",
+      "options": {
+        "A": "Emotional",
+        "B": "Nutzenorientiert",
+        "C": "Zufällig",
+        "D": "Unüberlegt"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rationale Entscheidungen orientieren sich am größten Nutzen."
+    },
+    {
+      "id": 44,
+      "question": "Was ist ein Produktionsprozess?",
+      "options": {
+        "A": "Konsum",
+        "B": "Umwandlung von Ressourcen in Produkte",
+        "C": "Freizeit",
+        "D": "Werbung"
+      },
+      "correctAnswer": "B",
+      "explanation": "Im Produktionsprozess werden Inputs in fertige Produkte umgewandelt."
+    },
+    {
+      "id": 45,
+      "question": "Was bedeutet Effizienz?",
+      "options": {
+        "A": "Viel Aufwand",
+        "B": "Gutes Ergebnis mit wenig Einsatz",
+        "C": "Zufall",
+        "D": "Verschwendung"
+      },
+      "correctAnswer": "B",
+      "explanation": "Effizienz bedeutet, ein Ziel mit möglichst geringem Aufwand zu erreichen."
+    }
 ]
